@@ -12,7 +12,6 @@ def prime?(n)
       end 
     end 
   return true
-  break
   end
 end
       
